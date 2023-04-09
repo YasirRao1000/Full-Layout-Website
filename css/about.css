@@ -1,0 +1,61 @@
+
+
+.div1{
+	position: absolute;
+	top: 20px;
+	right: 110px;
+	background-color: rgba(255, 255, 255,0.9);
+	width: 700px;
+	height: 250px;
+}
+
+
+
+h1{
+	margin-top: 60px;
+	font-family: Calibri;
+	font-size: 60px;
+}
+
+
+
+h2{
+	margin-top: -40px;
+	font-family: Calibri;
+	font-size: 20px;
+}
+
+
+.div2{
+	position: absolute;
+	top: 350px;
+	right: 110px;
+	background-color: white;
+	width: 700px;
+	height: 250px;
+}
+
+
+h3{
+/*	margin-top: -40px;*/
+	font-family: Calibri;
+	font-size: 20px;
+	margin: 0px 30px 0px 30px;
+	font-display: justify;
+}
+
+
+
+.logo{
+	position: fixed;
+	bottom: 5px;
+	left: 30px;
+}
+
+.logo:hover{
+	position: fixed;
+	bottom: 10px;
+	left: 30px;
+}
+
+

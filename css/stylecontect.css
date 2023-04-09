@@ -1,0 +1,93 @@
+
+
+header{
+	background-color: rgba(116, 185, 255, 0.5);
+	padding-top: 30px;
+	padding-bottom: 30PX;
+	padding-left: 200PX;
+	color: white;
+	font-family: arial;
+	font-size: 30px;
+
+}
+
+
+FOOTER{
+	background-color: rgba(116, 185, 255, 0.5);
+	padding-top: 30px;
+	padding-bottom: 30PX;
+	padding-left: 200PX;
+	color: white;
+	font-family: arial;
+	font-size: 20px;
+
+}
+
+
+H2{
+	color: white;
+	padding-left: 200px;
+	font-family: arial;
+}
+
+h5{
+	color: white;
+
+}
+
+
+pre{
+	padding-left: 200px;
+	font-family: arial;
+}
+
+
+form{
+	padding-left: 200px;
+}
+
+
+input{
+	margin-top: 10px;
+	padding-right: 50px;
+	padding-left: 10px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	
+}
+
+
+textarea{
+	margin-top: 10px;
+	padding-right: 240px;
+	padding-left: 10px;
+	padding-top: 8px;
+	padding-bottom: 150px;
+}
+
+
+.y1{
+	margin-bottom: 50px;
+	padding: 5px;
+
+
+}
+
+
+.logo{
+	position: fixed;
+	bottom: 10px;
+	left: 20px;
+}
+
+.logo:hover{
+	position: fixed;
+	bottom: 15px;
+	left: 20px;
+}
+
+
+
+
+
+

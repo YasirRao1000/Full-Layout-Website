@@ -1,0 +1,352 @@
+
+
+
+ul li{
+	text-decoration: none;
+	display: inline-block;
+	float: right;
+	margin-top: 19px;
+	margin-right: 15px;
+	border: 2px solid white;
+	color: white;
+	padding: 5px 10px 5px 10px;
+	border-radius: 30px 1px 30px 30px;
+	box-shadow: rgba(0, 0, 0, 0.6) 7px 7px 7px;
+	transition: 0.5s ease;
+	background-color: transparent;
+}
+
+
+
+
+ul li:hover {
+	text-decoration: none;
+	display: inline-block;
+	float: right;
+	margin: 10px;
+	border: 2px solid black;
+	color: black;
+	padding: 5px 10px 5px 10px;
+	border-radius: 30px 30px 30px 30px;
+	box-shadow: rgba(0, 0, 0, 1.0) 15px 15px 15px;
+	transition: 0.3s ease;
+	background-color: transparent;
+
+}
+
+header{
+	position: sticky;
+	top: 3px;
+	width: 100%;
+	height: 70px;
+	background-color: rgba(135, 206, 235, 0.3);
+	border-radius: 30px;
+	backdrop-filter: blur(5px);
+
+}
+
+
+footer{
+	position: static;
+	bottom: 2px;
+	margin-top: 800px;
+	width: 100%;
+	height: 350px;
+	background-color: rgba(135, 206, 235, 0.3);
+	border-radius: 30px;
+	backdrop-filter: blur(15px);
+}
+
+
+.logo{
+	position: fixed;
+	bottom: 5px;
+	left: 30px;
+}
+
+.logo:hover{
+	position: fixed;
+	bottom: 10px;
+	left: 30px;
+}
+
+.logotop{
+	position: fixed;
+	bottom: 5px;
+	left: 80px;
+}
+
+.logotop:hover{
+	position: fixed;
+	bottom: 8px;
+	left: 80px;
+}
+
+.chatbox{
+	margin-top: 2px;
+	position: fixed;
+	bottom: 20px;
+	right: 25px;
+
+	/*width: 50px;
+	height: 50px;
+	background-color: red;*/
+
+}
+
+.chatbox2{
+	padding-left: 30px;
+	padding-right: 80px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 50px;
+	border: 2px solid white;
+	box-shadow: rgba(0, 0, 0, 0.9) 7px 7px 7px;
+	background-color: transparent;
+	background-color: rgba(135, 206, 235, 0.3);
+	backdrop-filter: blur(5px);
+}
+
+
+.line0{
+	float: left;
+
+}
+
+.line1{
+	margin-top: 26px;
+	margin-left: 30px;
+	width: 30px;
+	height: 3px;
+	background-color: white;
+	border-radius: 20px;
+	transition: 3s ease;
+}
+
+
+.line1:hover{
+	margin-top: 26px;
+	margin-left: 30px;
+	width: 30px;
+	height: 3px;
+	background-color: black;
+	border-radius: 20px;
+	transition: 0.1s ease;
+}
+
+
+.line2{
+	margin-top: 5px;
+	margin-left: 30px;
+	width: 30px;
+	height: 3px;
+	background-color: white;
+	border-radius: 20px;
+	transition: 3s ease;
+}
+
+
+.line2:hover{
+	margin-top: 5px;
+	margin-left: 30px;
+	width: 30px;
+	height: 3px;
+	background-color: black;
+	border-radius: 20px;
+	transition: 0.1s ease;
+}
+
+.line3{
+	margin-top: 5px;
+	margin-left: 30px;
+	width: 30px;
+	height: 3px;
+	background-color: white;
+	border-radius: 20px;
+	transition: 3s ease;
+}
+
+.line3:hover{
+	margin-top: 5px;
+	margin-left: 30px;
+	width: 30px;
+	height: 3px;
+	background-color: black;
+	border-radius: 20px;
+	transition: 0.1s ease;
+}
+
+/*icons\/\/*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*icons\/\/*/
+
+
+
+.icony3{
+	position: absolute;
+	margin-left: 380px;
+	margin-top: 100px;
+}
+
+.icony4{
+	position: absolute;
+	margin-left: 360px;
+	margin-top: 210px;
+}
+
+
+
+
+.Feedbackbox{
+	padding-left: 20px;
+	padding-right: 200px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-top-left-radius: 50px;
+	border-bottom-left-radius: 50px;
+/*
+	padding-left: 30px;
+	padding-right: 80px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 50px;*/
+	border: 3px solid white;
+/*	box-shadow: rgba(0, 0, 0, 0.9) 7px 7px 7px;
+*/	/*background-color: transparent;*/
+	background-color: rgba(135, 206, 235, 0.15);
+/*	backdrop-filter: blur(5px);*/
+}
+
+
+.Sendbotton{
+	border: 3px solid white;
+	color: white;
+/*	background-color: black;*/
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-top-right-radius: 50px;
+	border-bottom-right-radius: 50px;
+	background-color: rgb(176, 215, 230);
+	/*background-color: rgba(135, 206, 235, 1)*/
+	transition: 3s ease;
+}
+
+
+
+.Sendbotton:hover{
+	color: black;
+	background-color: white;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-top-right-radius: 50px;
+	border-bottom-right-radius: 50px;
+	transition: 0.3s ease;
+}
+
+
+
+
+.fab{
+	font-size: 40px;
+	margin: 30px;
+	color: white;
+	text-shadow: 2px 2px 2px black;
+	transition: 3s ease;
+}
+
+
+.fa-facebook:hover{
+	
+	color: white;
+	padding: 15px;
+	border-radius: 40px;
+	font-size: 40px;
+	margin: 15px;
+	background-image: linear-gradient(#294b7d, black);
+	box-shadow: 2px 2px 2px black;
+/*	shape-outside: 2px solid white;*/
+	transition: 0.3s ease;
+}
+
+
+.fa-twitter:hover{
+	
+	color: white;
+	padding: 15px;
+	border-radius: 40px;
+	font-size: 40px;
+	margin: 15px;
+	background-image: linear-gradient(#1da1f2, black);
+	box-shadow: 2px 2px 2px black;
+/*	shape-outside: 2px solid white;*/
+	transition: 0.3s ease;
+}
+
+
+.fa-linkedin:hover{
+	
+	color: white;
+	padding: 15px;
+	border-radius: 40px;
+	font-size: 40px;
+	margin: 15px;
+	background-image: linear-gradient(#007785, black);
+	box-shadow: 2px 2px 2px black;
+/*	shape-outside: 2px solid white;*/
+	transition: 0.3s ease;
+}
+
+.fa-youtube:hover{
+	
+	color: white;
+	padding: 15px;
+	border-radius: 40px;
+	font-size: 40px;
+	margin: 15px;
+	background-image: linear-gradient(red, black);
+	box-shadow: 2px 2px 2px black;
+/*	shape-outside: 2px solid white;*/
+	transition: 0.3s ease;
+}
+
+.fa-instagram:hover{
+	
+	color: white;
+	padding: 15px;
+	border-radius: 40px;
+	font-size: 40px;
+	margin: 15px;
+	background-image: linear-gradient(#8134AF, #DD2A7B, #FEDA77, black);
+	box-shadow: 2px 2px 2px black;
+/*	shape-outside: 2px solid white;*/
+	transition: 0.3s ease;
+}
+
+
+/*pitchers div*/
+/*
+.divpic1{
+	position: static;
+	margin-top: 400px;
+	background-color: red;
+	width: 200px;
+	height: 200px;
+}
+*/
